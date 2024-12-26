@@ -1,0 +1,18 @@
+@startuml
+
+abstract AbstractClass {
+    + {abstract} abstractMethod()
+    + method()
+    + publicMember
+    # protectedMember
+    - privateMember1
+}
+
+class ConcreteClass {
+    + abstractMethod()
+    - privateMember2
+}
+
+AbstractClass <|-- ConcreteClass
+
+@enduml
