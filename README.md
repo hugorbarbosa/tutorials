@@ -10,6 +10,7 @@ This project contains personal tutorials and guides.
 ## Available tutorials/guides
 
 - [Docker guide](./docker-guide/docker-guide.md)
+- [UML basics](./uml-basics/uml-basics.md)
 
 ## License
 
