@@ -160,7 +160,7 @@ A sequence diagram example:
 
 ## Tools
 
-There are many [tools][ref-uml-tools] that support some functions of UML. PlantUML is one of them, it is an open-source tool allowing users to create diagrams from a plain text language.
+There are many [tools][ref-uml-tools] that support some functions of UML. PlantUML is one of them, it is an open-source tool that allows users to create diagrams from a plain text language.
 
 This tool can be used from the command line to generate an image from a file, as follows:
 
